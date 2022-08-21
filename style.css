@@ -188,8 +188,8 @@ body{
   .hero img{
     position: absolute;
     right: 0;
-    bottom: 20px;
-    margin-right: 50px;
+    bottom: 0;
+    margin-right: 30px;
     height: 80px;
   }
 
