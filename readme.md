@@ -6,7 +6,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 
-## Project-3
+## Project-2
 - This is a Restaurant landing page designed using HTML and CSS.
 - [Deployed link](https://robin-project-2.vercel.app/)
 
